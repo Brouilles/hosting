@@ -2,6 +2,10 @@
 
 This repository acts as a a template to get up and running with [Plausible Analytics](https://github.com/plausible/analytics).
 
+## For Windows
+It's a small fork for Windows. Change the volumes path with yours.   
+No volume path for postgres because crash on Windows.
+
 ### How to use
 
 Find instructions on how to run Plausible Analytics Self Hosted [in our docs](https://docs.plausible.io/self-hosting).
